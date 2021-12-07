@@ -8,6 +8,7 @@ This repository builds a Linear and a Logistic Regression model to predict rainf
 The following dataset constitutes 3.5 years worth of weather data, including temperature, humidity, dewpoints, etc: 
 
     https://github.com/vijaya123456/Rainfall-prediction-classifier/blob/main/public/csv/austin_final.csv
+    https://github.com/vijaya123456/Rainfall-prediction-classifier/tree/main/public
 
 
 Manually classifying the precipitation levels into 4 different classes as follows:
