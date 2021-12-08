@@ -33,7 +33,7 @@ Below are the graphs we obtain after classifying express various trends which ti
 <img src="predictions/Logistic_Regression.png" width="50%" height="50%" alt="">
 
 ## CONCLUSIONS
-For improvements on our model, the following can be applied:
+For improvements on model, the following can be applied:
 Resampling of the dataset. This helps in improving the performance of our model.
 One can decide to divide the data into a ratio of one is to one(1:1). That is, Have a method that does
 preprocesses data into 50-50 ration.
