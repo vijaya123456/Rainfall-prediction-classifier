@@ -1,16 +1,14 @@
 ## RAINFALL PREDICTION MODEL
-This repository builds a Linear and a Logistic Regression model to predict rainfalls in Austin, Texas. The model is supposed to predict whether it is supposed to:
+This repository builds a Linear and a Logistic Regression model to predict the rainfalls. The model is supposed to predict whether it is supposed to:
     - Rain
     - Drizzle
     - Moderate Rain
     - Heavy Rain
 
-The following dataset constitutes 3.5 years worth of weather data, including temperature, humidity, dewpoints, etc: 
+The following dataset constitutes the weather data, including temperature, humidity, dewpoints, etc: 
 
     https://github.com/vijaya123456/Rainfall-prediction-classifier/blob/main/public/rainfall-dataset.csv
     
-
-
 
 Manually classifying the precipitation levels into 4 different classes as follows:
 
@@ -20,6 +18,7 @@ Manually classifying the precipitation levels into 4 different classes as follow
 - Heavy Rains: precipitation>=1.2
 
 ## GET STARTED
+
     1) Fork the repository, https://github.com/vijaya123456/Rainfall-prediction-classifier.git
     2) Run the model classifiers in rainfall-prediction folder, linearRegression.py and logisticRegression.py
     3) Revamp and do pull request.
